@@ -551,6 +551,7 @@ url("./fonts/bootstrap-icons.woff?dd67030699838ea613ee6dbda90effa6") format("wof
 .bi-droplet-fill::before { content: "\f30b"; }
 .bi-droplet-half::before { content: "\f30c"; }
 .bi-droplet::before { content: "\f30d"; }
+.bi-ear::before { content: "\f689"; }
 .bi-earbuds::before { content: "\f30e"; }
 .bi-easel-fill::before { content: "\f30f"; }
 .bi-easel::before { content: "\f310"; }
